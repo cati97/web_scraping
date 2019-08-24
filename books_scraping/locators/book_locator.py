@@ -1,2 +1,2 @@
 class BookLocator:
-    BOOKS = 'section ol.row li'
+    BOOKS = 'div.page_inner section li.col-xs-6'
