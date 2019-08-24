@@ -4,6 +4,15 @@ from books_scraping.locators.book_details_locators import BookDetailsLocators
 
 
 class BookParser:
+
+    RATINGS = {
+        'One': 1,
+        'Two': 2,
+        'Three': 3,
+        'Four': 4,
+        'Five': 5
+    }
+
     def __init__(self, parent: BeautifulSoup):
         self.parent = parent
 
@@ -13,12 +22,18 @@ class BookParser:
     @property
     def title(self):
         locator = BookDetailsLocators.TITLE
-        title = self.parent.select_one(locator)
-        return title.attrs['title']
+        title_tag = self.parent.select_one(locator)
+        title = title_tag.attrs['title']
+        return title
 
     @property
     def price(self):
-        return 25.5  # just to see if everything else works
+        locator = BookDetailsLocators.PRICE
+        price_with_symbol = self.parent.select_one(locator).string
+        pattern = '£(\d*\.\d*)'
+        matches = re.search(pattern, price_with_symbol)
+        price = matches.group(1)
+        return float(price)
 
     @property
     def rating(self):
@@ -26,16 +41,5 @@ class BookParser:
         tag = self.parent.select_one(locator)
         classes = tag.attrs['class']
         rating = [r for r in classes if r != 'star-rating']
-        return rating[0]
-
-
-""" Price throws an ERROR - NoneType doesn't have attribute group
-
-        locator = BookDetailsLocators.PRICE
-        price_with_symbol = self.parent.select_one(locator).string
-        pattern = '£(\d\.\d)'
-        matches = re.search(pattern, price_with_symbol)
-        price = matches.group(1)
-        return float(price)
-
-"""
+        rating_number = BookParser.RATINGS.get(rating[0])
+        return rating_number

@@ -1,4 +1,4 @@
 class BookDetailsLocators:
-    TITLE = 'h3 a'
-    PRICE = 'div.product_price p.price_color'
-    RATING = 'p.star-rating'
+    TITLE = 'article.product_pod h3 a'
+    PRICE = 'article.product_pod .price_color'
+    RATING = 'article.product_pod p.star-rating'
