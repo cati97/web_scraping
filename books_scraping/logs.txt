@@ -1,0 +1,348 @@
+28-08-2019 12:21:26 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:21:26 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET / HTTP/1.1" 200 None
+28-08-2019 12:21:26 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:21:26 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-2.html HTTP/1.1" 200 None
+28-08-2019 12:21:26 DEBUG    [app.py: 21] Managed to get page_content from page nr `2`
+28-08-2019 12:21:26 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:21:26 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-3.html HTTP/1.1" 200 None
+28-08-2019 12:21:26 DEBUG    [app.py: 21] Managed to get page_content from page nr `3`
+28-08-2019 12:21:26 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:21:27 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-4.html HTTP/1.1" 200 None
+28-08-2019 12:21:27 DEBUG    [app.py: 21] Managed to get page_content from page nr `4`
+28-08-2019 12:21:27 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:21:27 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-5.html HTTP/1.1" 200 None
+28-08-2019 12:21:27 DEBUG    [app.py: 21] Managed to get page_content from page nr `5`
+28-08-2019 12:21:27 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:21:27 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-6.html HTTP/1.1" 200 None
+28-08-2019 12:21:27 DEBUG    [app.py: 21] Managed to get page_content from page nr `6`
+28-08-2019 12:21:27 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:21:27 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-7.html HTTP/1.1" 200 None
+28-08-2019 12:21:27 DEBUG    [app.py: 21] Managed to get page_content from page nr `7`
+28-08-2019 12:21:27 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:21:27 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-8.html HTTP/1.1" 200 None
+28-08-2019 12:21:27 DEBUG    [app.py: 21] Managed to get page_content from page nr `8`
+28-08-2019 12:21:28 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:21:28 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-9.html HTTP/1.1" 200 None
+28-08-2019 12:21:28 DEBUG    [app.py: 21] Managed to get page_content from page nr `9`
+28-08-2019 12:21:28 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:21:28 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-10.html HTTP/1.1" 200 None
+28-08-2019 12:21:28 DEBUG    [app.py: 21] Managed to get page_content from page nr `10`
+28-08-2019 12:21:28 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:21:28 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-11.html HTTP/1.1" 200 None
+28-08-2019 12:21:28 DEBUG    [app.py: 21] Managed to get page_content from page nr `11`
+28-08-2019 12:21:28 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:21:28 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-12.html HTTP/1.1" 200 None
+28-08-2019 12:21:28 DEBUG    [app.py: 21] Managed to get page_content from page nr `12`
+28-08-2019 12:21:28 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:21:28 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-13.html HTTP/1.1" 200 None
+28-08-2019 12:21:28 DEBUG    [app.py: 21] Managed to get page_content from page nr `13`
+28-08-2019 12:21:29 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:21:29 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-14.html HTTP/1.1" 200 None
+28-08-2019 12:21:29 DEBUG    [app.py: 21] Managed to get page_content from page nr `14`
+28-08-2019 12:21:29 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:21:29 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-15.html HTTP/1.1" 200 None
+28-08-2019 12:21:29 DEBUG    [app.py: 21] Managed to get page_content from page nr `15`
+28-08-2019 12:21:29 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:21:29 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-16.html HTTP/1.1" 200 None
+28-08-2019 12:21:29 DEBUG    [app.py: 21] Managed to get page_content from page nr `16`
+28-08-2019 12:21:29 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:21:29 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-17.html HTTP/1.1" 200 None
+28-08-2019 12:21:29 DEBUG    [app.py: 21] Managed to get page_content from page nr `17`
+28-08-2019 12:21:29 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:21:30 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-18.html HTTP/1.1" 200 None
+28-08-2019 12:21:30 DEBUG    [app.py: 21] Managed to get page_content from page nr `18`
+28-08-2019 12:21:30 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:21:30 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-19.html HTTP/1.1" 200 None
+28-08-2019 12:21:30 DEBUG    [app.py: 21] Managed to get page_content from page nr `19`
+28-08-2019 12:21:30 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:21:30 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-20.html HTTP/1.1" 200 None
+28-08-2019 12:21:30 DEBUG    [app.py: 21] Managed to get page_content from page nr `20`
+28-08-2019 12:21:30 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:21:30 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-21.html HTTP/1.1" 200 None
+28-08-2019 12:21:30 DEBUG    [app.py: 21] Managed to get page_content from page nr `21`
+28-08-2019 12:21:30 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:21:30 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-22.html HTTP/1.1" 200 None
+28-08-2019 12:21:30 DEBUG    [app.py: 21] Managed to get page_content from page nr `22`
+28-08-2019 12:21:30 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:21:31 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-23.html HTTP/1.1" 200 None
+28-08-2019 12:21:31 DEBUG    [app.py: 21] Managed to get page_content from page nr `23`
+28-08-2019 12:21:31 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:21:31 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-24.html HTTP/1.1" 200 None
+28-08-2019 12:21:31 DEBUG    [app.py: 21] Managed to get page_content from page nr `24`
+28-08-2019 12:21:31 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:21:31 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-25.html HTTP/1.1" 200 None
+28-08-2019 12:21:31 DEBUG    [app.py: 21] Managed to get page_content from page nr `25`
+28-08-2019 12:21:31 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:21:31 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-26.html HTTP/1.1" 200 None
+28-08-2019 12:21:31 DEBUG    [app.py: 21] Managed to get page_content from page nr `26`
+28-08-2019 12:21:31 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:21:32 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-27.html HTTP/1.1" 200 None
+28-08-2019 12:21:32 DEBUG    [app.py: 21] Managed to get page_content from page nr `27`
+28-08-2019 12:21:32 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:21:32 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-28.html HTTP/1.1" 200 None
+28-08-2019 12:21:32 DEBUG    [app.py: 21] Managed to get page_content from page nr `28`
+28-08-2019 12:21:32 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:21:32 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-29.html HTTP/1.1" 200 None
+28-08-2019 12:21:32 DEBUG    [app.py: 21] Managed to get page_content from page nr `29`
+28-08-2019 12:21:32 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:21:32 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-30.html HTTP/1.1" 200 None
+28-08-2019 12:21:32 DEBUG    [app.py: 21] Managed to get page_content from page nr `30`
+28-08-2019 12:21:32 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:21:32 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-31.html HTTP/1.1" 200 None
+28-08-2019 12:21:32 DEBUG    [app.py: 21] Managed to get page_content from page nr `31`
+28-08-2019 12:21:32 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:21:33 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-32.html HTTP/1.1" 200 None
+28-08-2019 12:21:33 DEBUG    [app.py: 21] Managed to get page_content from page nr `32`
+28-08-2019 12:21:33 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:21:33 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-33.html HTTP/1.1" 200 None
+28-08-2019 12:21:33 DEBUG    [app.py: 21] Managed to get page_content from page nr `33`
+28-08-2019 12:21:33 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:21:33 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-34.html HTTP/1.1" 200 None
+28-08-2019 12:21:33 DEBUG    [app.py: 21] Managed to get page_content from page nr `34`
+28-08-2019 12:21:33 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:21:33 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-35.html HTTP/1.1" 200 None
+28-08-2019 12:21:33 DEBUG    [app.py: 21] Managed to get page_content from page nr `35`
+28-08-2019 12:21:33 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:21:33 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-36.html HTTP/1.1" 200 None
+28-08-2019 12:21:33 DEBUG    [app.py: 21] Managed to get page_content from page nr `36`
+28-08-2019 12:21:33 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:21:34 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-37.html HTTP/1.1" 200 None
+28-08-2019 12:21:34 DEBUG    [app.py: 21] Managed to get page_content from page nr `37`
+28-08-2019 12:21:34 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:21:34 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-38.html HTTP/1.1" 200 None
+28-08-2019 12:21:34 DEBUG    [app.py: 21] Managed to get page_content from page nr `38`
+28-08-2019 12:21:34 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:21:34 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-39.html HTTP/1.1" 200 None
+28-08-2019 12:21:34 DEBUG    [app.py: 21] Managed to get page_content from page nr `39`
+28-08-2019 12:21:34 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:21:34 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-40.html HTTP/1.1" 200 None
+28-08-2019 12:21:34 DEBUG    [app.py: 21] Managed to get page_content from page nr `40`
+28-08-2019 12:21:34 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:21:34 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-41.html HTTP/1.1" 200 None
+28-08-2019 12:21:34 DEBUG    [app.py: 21] Managed to get page_content from page nr `41`
+28-08-2019 12:21:34 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:21:35 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-42.html HTTP/1.1" 200 None
+28-08-2019 12:21:35 DEBUG    [app.py: 21] Managed to get page_content from page nr `42`
+28-08-2019 12:21:35 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:21:35 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-43.html HTTP/1.1" 200 None
+28-08-2019 12:21:35 DEBUG    [app.py: 21] Managed to get page_content from page nr `43`
+28-08-2019 12:21:35 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:21:35 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-44.html HTTP/1.1" 200 None
+28-08-2019 12:21:35 DEBUG    [app.py: 21] Managed to get page_content from page nr `44`
+28-08-2019 12:21:35 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:21:35 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-45.html HTTP/1.1" 200 None
+28-08-2019 12:21:35 DEBUG    [app.py: 21] Managed to get page_content from page nr `45`
+28-08-2019 12:21:35 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:21:36 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-46.html HTTP/1.1" 200 None
+28-08-2019 12:21:36 DEBUG    [app.py: 21] Managed to get page_content from page nr `46`
+28-08-2019 12:21:36 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:21:36 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-47.html HTTP/1.1" 200 None
+28-08-2019 12:21:36 DEBUG    [app.py: 21] Managed to get page_content from page nr `47`
+28-08-2019 12:21:36 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:21:36 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-48.html HTTP/1.1" 200 None
+28-08-2019 12:21:36 DEBUG    [app.py: 21] Managed to get page_content from page nr `48`
+28-08-2019 12:21:36 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:21:36 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-49.html HTTP/1.1" 200 None
+28-08-2019 12:21:36 DEBUG    [app.py: 21] Managed to get page_content from page nr `49`
+28-08-2019 12:21:36 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:21:36 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-50.html HTTP/1.1" 200 None
+28-08-2019 12:21:36 DEBUG    [app.py: 21] Managed to get page_content from page nr `50`
+28-08-2019 12:26:22 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:26:22 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET / HTTP/1.1" 200 None
+28-08-2019 12:26:22 DEBUG    [books.py: 18] Creating book objects for page nr <property object at 0x7fd0f16b2688>
+28-08-2019 12:26:22 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:26:22 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-2.html HTTP/1.1" 200 None
+28-08-2019 12:26:22 DEBUG    [app.py: 21] Managed to get page_content from page nr `2`
+28-08-2019 12:26:22 DEBUG    [books.py: 18] Creating book objects for page nr <property object at 0x7fd0f16b2688>
+28-08-2019 12:26:22 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:26:22 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-3.html HTTP/1.1" 200 None
+28-08-2019 12:26:22 DEBUG    [app.py: 21] Managed to get page_content from page nr `3`
+28-08-2019 12:26:22 DEBUG    [books.py: 18] Creating book objects for page nr <property object at 0x7fd0f16b2688>
+28-08-2019 12:26:22 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:26:23 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-4.html HTTP/1.1" 200 None
+28-08-2019 12:26:23 DEBUG    [app.py: 21] Managed to get page_content from page nr `4`
+28-08-2019 12:26:23 DEBUG    [books.py: 18] Creating book objects for page nr <property object at 0x7fd0f16b2688>
+28-08-2019 12:26:23 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:26:23 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-5.html HTTP/1.1" 200 None
+28-08-2019 12:26:23 DEBUG    [app.py: 21] Managed to get page_content from page nr `5`
+28-08-2019 12:26:23 DEBUG    [books.py: 18] Creating book objects for page nr <property object at 0x7fd0f16b2688>
+28-08-2019 12:26:23 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:26:23 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-6.html HTTP/1.1" 200 None
+28-08-2019 12:26:23 DEBUG    [app.py: 21] Managed to get page_content from page nr `6`
+28-08-2019 12:26:23 DEBUG    [books.py: 18] Creating book objects for page nr <property object at 0x7fd0f16b2688>
+28-08-2019 12:26:23 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:26:23 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-7.html HTTP/1.1" 200 None
+28-08-2019 12:26:23 DEBUG    [app.py: 21] Managed to get page_content from page nr `7`
+28-08-2019 12:26:23 DEBUG    [books.py: 18] Creating book objects for page nr <property object at 0x7fd0f16b2688>
+28-08-2019 12:26:23 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:26:23 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-8.html HTTP/1.1" 200 None
+28-08-2019 12:26:23 DEBUG    [app.py: 21] Managed to get page_content from page nr `8`
+28-08-2019 12:26:23 DEBUG    [books.py: 18] Creating book objects for page nr <property object at 0x7fd0f16b2688>
+28-08-2019 12:26:23 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:26:24 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-9.html HTTP/1.1" 200 None
+28-08-2019 12:26:24 DEBUG    [app.py: 21] Managed to get page_content from page nr `9`
+28-08-2019 12:26:24 DEBUG    [books.py: 18] Creating book objects for page nr <property object at 0x7fd0f16b2688>
+28-08-2019 12:26:24 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:26:24 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-10.html HTTP/1.1" 200 None
+28-08-2019 12:26:24 DEBUG    [app.py: 21] Managed to get page_content from page nr `10`
+28-08-2019 12:26:24 DEBUG    [books.py: 18] Creating book objects for page nr <property object at 0x7fd0f16b2688>
+28-08-2019 12:26:24 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:26:24 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-11.html HTTP/1.1" 200 None
+28-08-2019 12:26:24 DEBUG    [app.py: 21] Managed to get page_content from page nr `11`
+28-08-2019 12:26:24 DEBUG    [books.py: 18] Creating book objects for page nr <property object at 0x7fd0f16b2688>
+28-08-2019 12:26:24 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:26:24 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-12.html HTTP/1.1" 200 None
+28-08-2019 12:26:24 DEBUG    [app.py: 21] Managed to get page_content from page nr `12`
+28-08-2019 12:26:24 DEBUG    [books.py: 18] Creating book objects for page nr <property object at 0x7fd0f16b2688>
+28-08-2019 12:26:24 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:26:25 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-13.html HTTP/1.1" 200 None
+28-08-2019 12:26:25 DEBUG    [app.py: 21] Managed to get page_content from page nr `13`
+28-08-2019 12:26:25 DEBUG    [books.py: 18] Creating book objects for page nr <property object at 0x7fd0f16b2688>
+28-08-2019 12:26:25 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:26:25 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-14.html HTTP/1.1" 200 None
+28-08-2019 12:26:25 DEBUG    [app.py: 21] Managed to get page_content from page nr `14`
+28-08-2019 12:26:25 DEBUG    [books.py: 18] Creating book objects for page nr <property object at 0x7fd0f16b2688>
+28-08-2019 12:26:25 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:26:25 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-15.html HTTP/1.1" 200 None
+28-08-2019 12:26:25 DEBUG    [app.py: 21] Managed to get page_content from page nr `15`
+28-08-2019 12:26:25 DEBUG    [books.py: 18] Creating book objects for page nr <property object at 0x7fd0f16b2688>
+28-08-2019 12:26:25 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:26:25 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-16.html HTTP/1.1" 200 None
+28-08-2019 12:26:25 DEBUG    [app.py: 21] Managed to get page_content from page nr `16`
+28-08-2019 12:26:25 DEBUG    [books.py: 18] Creating book objects for page nr <property object at 0x7fd0f16b2688>
+28-08-2019 12:26:25 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:26:25 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-17.html HTTP/1.1" 200 None
+28-08-2019 12:26:25 DEBUG    [app.py: 21] Managed to get page_content from page nr `17`
+28-08-2019 12:26:25 DEBUG    [books.py: 18] Creating book objects for page nr <property object at 0x7fd0f16b2688>
+28-08-2019 12:26:25 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:26:26 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-18.html HTTP/1.1" 200 None
+28-08-2019 12:26:26 DEBUG    [app.py: 21] Managed to get page_content from page nr `18`
+28-08-2019 12:26:26 DEBUG    [books.py: 18] Creating book objects for page nr <property object at 0x7fd0f16b2688>
+28-08-2019 12:26:26 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:26:26 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-19.html HTTP/1.1" 200 None
+28-08-2019 12:26:26 DEBUG    [app.py: 21] Managed to get page_content from page nr `19`
+28-08-2019 12:26:26 DEBUG    [books.py: 18] Creating book objects for page nr <property object at 0x7fd0f16b2688>
+28-08-2019 12:26:26 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:26:26 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-20.html HTTP/1.1" 200 None
+28-08-2019 12:26:26 DEBUG    [app.py: 21] Managed to get page_content from page nr `20`
+28-08-2019 12:26:26 DEBUG    [books.py: 18] Creating book objects for page nr <property object at 0x7fd0f16b2688>
+28-08-2019 12:26:26 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:26:27 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-21.html HTTP/1.1" 200 None
+28-08-2019 12:26:27 DEBUG    [app.py: 21] Managed to get page_content from page nr `21`
+28-08-2019 12:26:27 DEBUG    [books.py: 18] Creating book objects for page nr <property object at 0x7fd0f16b2688>
+28-08-2019 12:26:27 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:26:27 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-22.html HTTP/1.1" 200 None
+28-08-2019 12:26:27 DEBUG    [app.py: 21] Managed to get page_content from page nr `22`
+28-08-2019 12:26:27 DEBUG    [books.py: 18] Creating book objects for page nr <property object at 0x7fd0f16b2688>
+28-08-2019 12:26:27 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:26:27 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-23.html HTTP/1.1" 200 None
+28-08-2019 12:26:27 DEBUG    [app.py: 21] Managed to get page_content from page nr `23`
+28-08-2019 12:26:27 DEBUG    [books.py: 18] Creating book objects for page nr <property object at 0x7fd0f16b2688>
+28-08-2019 12:26:27 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:26:28 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-24.html HTTP/1.1" 200 None
+28-08-2019 12:26:28 DEBUG    [app.py: 21] Managed to get page_content from page nr `24`
+28-08-2019 12:26:28 DEBUG    [books.py: 18] Creating book objects for page nr <property object at 0x7fd0f16b2688>
+28-08-2019 12:26:28 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:26:28 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-25.html HTTP/1.1" 200 None
+28-08-2019 12:26:28 DEBUG    [app.py: 21] Managed to get page_content from page nr `25`
+28-08-2019 12:26:28 DEBUG    [books.py: 18] Creating book objects for page nr <property object at 0x7fd0f16b2688>
+28-08-2019 12:26:28 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:26:28 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-26.html HTTP/1.1" 200 None
+28-08-2019 12:26:28 DEBUG    [app.py: 21] Managed to get page_content from page nr `26`
+28-08-2019 12:26:28 DEBUG    [books.py: 18] Creating book objects for page nr <property object at 0x7fd0f16b2688>
+28-08-2019 12:26:28 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:26:28 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-27.html HTTP/1.1" 200 None
+28-08-2019 12:26:28 DEBUG    [app.py: 21] Managed to get page_content from page nr `27`
+28-08-2019 12:26:28 DEBUG    [books.py: 18] Creating book objects for page nr <property object at 0x7fd0f16b2688>
+28-08-2019 12:26:28 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:26:28 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-28.html HTTP/1.1" 200 None
+28-08-2019 12:26:28 DEBUG    [app.py: 21] Managed to get page_content from page nr `28`
+28-08-2019 12:26:28 DEBUG    [books.py: 18] Creating book objects for page nr <property object at 0x7fd0f16b2688>
+28-08-2019 12:26:28 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:26:29 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-29.html HTTP/1.1" 200 None
+28-08-2019 12:26:29 DEBUG    [app.py: 21] Managed to get page_content from page nr `29`
+28-08-2019 12:26:29 DEBUG    [books.py: 18] Creating book objects for page nr <property object at 0x7fd0f16b2688>
+28-08-2019 12:26:29 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:26:29 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-30.html HTTP/1.1" 200 None
+28-08-2019 12:26:29 DEBUG    [app.py: 21] Managed to get page_content from page nr `30`
+28-08-2019 12:26:29 DEBUG    [books.py: 18] Creating book objects for page nr <property object at 0x7fd0f16b2688>
+28-08-2019 12:26:29 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:26:29 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-31.html HTTP/1.1" 200 None
+28-08-2019 12:26:29 DEBUG    [app.py: 21] Managed to get page_content from page nr `31`
+28-08-2019 12:26:29 DEBUG    [books.py: 18] Creating book objects for page nr <property object at 0x7fd0f16b2688>
+28-08-2019 12:26:29 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:26:29 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-32.html HTTP/1.1" 200 None
+28-08-2019 12:26:29 DEBUG    [app.py: 21] Managed to get page_content from page nr `32`
+28-08-2019 12:26:29 DEBUG    [books.py: 18] Creating book objects for page nr <property object at 0x7fd0f16b2688>
+28-08-2019 12:26:29 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:26:29 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-33.html HTTP/1.1" 200 None
+28-08-2019 12:26:29 DEBUG    [app.py: 21] Managed to get page_content from page nr `33`
+28-08-2019 12:26:29 DEBUG    [books.py: 18] Creating book objects for page nr <property object at 0x7fd0f16b2688>
+28-08-2019 12:26:29 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:26:30 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-34.html HTTP/1.1" 200 None
+28-08-2019 12:26:30 DEBUG    [app.py: 21] Managed to get page_content from page nr `34`
+28-08-2019 12:26:30 DEBUG    [books.py: 18] Creating book objects for page nr <property object at 0x7fd0f16b2688>
+28-08-2019 12:26:30 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:26:30 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-35.html HTTP/1.1" 200 None
+28-08-2019 12:26:30 DEBUG    [app.py: 21] Managed to get page_content from page nr `35`
+28-08-2019 12:26:30 DEBUG    [books.py: 18] Creating book objects for page nr <property object at 0x7fd0f16b2688>
+28-08-2019 12:26:30 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:26:30 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-36.html HTTP/1.1" 200 None
+28-08-2019 12:26:30 DEBUG    [app.py: 21] Managed to get page_content from page nr `36`
+28-08-2019 12:26:30 DEBUG    [books.py: 18] Creating book objects for page nr <property object at 0x7fd0f16b2688>
+28-08-2019 12:26:30 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:26:30 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-37.html HTTP/1.1" 200 None
+28-08-2019 12:26:30 DEBUG    [app.py: 21] Managed to get page_content from page nr `37`
+28-08-2019 12:26:30 DEBUG    [books.py: 18] Creating book objects for page nr <property object at 0x7fd0f16b2688>
+28-08-2019 12:26:30 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:26:30 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-38.html HTTP/1.1" 200 None
+28-08-2019 12:26:30 DEBUG    [app.py: 21] Managed to get page_content from page nr `38`
+28-08-2019 12:26:31 DEBUG    [books.py: 18] Creating book objects for page nr <property object at 0x7fd0f16b2688>
+28-08-2019 12:26:31 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:26:31 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-39.html HTTP/1.1" 200 None
+28-08-2019 12:26:31 DEBUG    [app.py: 21] Managed to get page_content from page nr `39`
+28-08-2019 12:26:31 DEBUG    [books.py: 18] Creating book objects for page nr <property object at 0x7fd0f16b2688>
+28-08-2019 12:26:31 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:26:31 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-40.html HTTP/1.1" 200 None
+28-08-2019 12:26:31 DEBUG    [app.py: 21] Managed to get page_content from page nr `40`
+28-08-2019 12:26:31 DEBUG    [books.py: 18] Creating book objects for page nr <property object at 0x7fd0f16b2688>
+28-08-2019 12:26:31 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:26:31 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-41.html HTTP/1.1" 200 None
+28-08-2019 12:26:31 DEBUG    [app.py: 21] Managed to get page_content from page nr `41`
+28-08-2019 12:26:31 DEBUG    [books.py: 18] Creating book objects for page nr <property object at 0x7fd0f16b2688>
+28-08-2019 12:26:31 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:26:32 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-42.html HTTP/1.1" 200 None
+28-08-2019 12:26:32 DEBUG    [app.py: 21] Managed to get page_content from page nr `42`
+28-08-2019 12:26:32 DEBUG    [books.py: 18] Creating book objects for page nr <property object at 0x7fd0f16b2688>
+28-08-2019 12:26:32 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:26:32 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-43.html HTTP/1.1" 200 None
+28-08-2019 12:26:32 DEBUG    [app.py: 21] Managed to get page_content from page nr `43`
+28-08-2019 12:26:32 DEBUG    [books.py: 18] Creating book objects for page nr <property object at 0x7fd0f16b2688>
+28-08-2019 12:26:32 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:26:32 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-44.html HTTP/1.1" 200 None
+28-08-2019 12:26:32 DEBUG    [app.py: 21] Managed to get page_content from page nr `44`
+28-08-2019 12:26:32 DEBUG    [books.py: 18] Creating book objects for page nr <property object at 0x7fd0f16b2688>
+28-08-2019 12:26:32 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:26:32 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-45.html HTTP/1.1" 200 None
+28-08-2019 12:26:32 DEBUG    [app.py: 21] Managed to get page_content from page nr `45`
+28-08-2019 12:26:32 DEBUG    [books.py: 18] Creating book objects for page nr <property object at 0x7fd0f16b2688>
+28-08-2019 12:26:32 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:26:32 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-46.html HTTP/1.1" 200 None
+28-08-2019 12:26:32 DEBUG    [app.py: 21] Managed to get page_content from page nr `46`
+28-08-2019 12:26:32 DEBUG    [books.py: 18] Creating book objects for page nr <property object at 0x7fd0f16b2688>
+28-08-2019 12:26:32 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:26:33 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-47.html HTTP/1.1" 200 None
+28-08-2019 12:26:33 DEBUG    [app.py: 21] Managed to get page_content from page nr `47`
+28-08-2019 12:26:33 DEBUG    [books.py: 18] Creating book objects for page nr <property object at 0x7fd0f16b2688>
+28-08-2019 12:26:33 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:26:33 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-48.html HTTP/1.1" 200 None
+28-08-2019 12:26:33 DEBUG    [app.py: 21] Managed to get page_content from page nr `48`
+28-08-2019 12:26:33 DEBUG    [books.py: 18] Creating book objects for page nr <property object at 0x7fd0f16b2688>
+28-08-2019 12:26:33 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:26:33 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-49.html HTTP/1.1" 200 None
+28-08-2019 12:26:33 DEBUG    [app.py: 21] Managed to get page_content from page nr `49`
+28-08-2019 12:26:33 DEBUG    [books.py: 18] Creating book objects for page nr <property object at 0x7fd0f16b2688>
+28-08-2019 12:26:33 DEBUG    [connectionpool.py: 206] Starting new HTTP connection (1): books.toscrape.com:80
+28-08-2019 12:26:33 DEBUG    [connectionpool.py: 396] http://books.toscrape.com:80 "GET /catalogue/page-50.html HTTP/1.1" 200 None
+28-08-2019 12:26:33 DEBUG    [app.py: 21] Managed to get page_content from page nr `50`
+28-08-2019 12:26:33 DEBUG    [books.py: 18] Creating book objects for page nr <property object at 0x7fd0f16b2688>
